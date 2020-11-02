@@ -11,9 +11,10 @@ The login credentials are<br>
 
 ## Features
 - Login with the credentials above
-- View list of current popular Movies
-- View list of current popular TV Shows
-- View list of best rated Movies
+- Current popular Movies
+- Current popular TV Shows
+- Best rated Movies
+- Check the details of a media by tapping on it
 
 ## Issues
 - Age rating for movies is not functional
