@@ -45,16 +45,6 @@ class _MediaState extends State<MediaDetailPage> {
     });
   }
 
-    _getMovieRating(id) {
-    API.getTVShowDetails(id).then((response) {
-      setState(() {
-        var res = json.decode(response);
-        Iterable list = res['release_dates'];
-        
-      });
-    });
-  }
-
   _getTVShowGenres(id) {
     API.getTVShowDetails(id).then((response) {
       setState(() {
