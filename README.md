@@ -4,6 +4,6 @@ A Flutter app that lets you explore movies and TV Shows and uses The Movie Datab
 
 ## Getting Started
 
-The login credentials are 
-email: jeantest@test.com
-password: test10
+The login credentials are<br>
+**email:** jeantest@test.com<br>
+**password:** test10
