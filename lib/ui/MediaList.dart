@@ -100,7 +100,11 @@ class _MyHomePageState extends State<MediaList> {
                       fontWeight: FontWeight.bold,
                       color: Colors.white),
                 ),
-                Spacer()
+                Spacer(),
+                IconButton(
+                  icon: Icon(Icons.eject, color: Colors.white),
+                  onPressed: () => Navigator.of(context).pop(),
+                ),
               ],
             ),
             Container(
