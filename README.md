@@ -11,9 +11,9 @@ The login credentials are<br>
 
 ## Features
 - Login with the credentials above
-- Current popular Movies
-- Current popular TV Shows
-- Best rated Movies
+- List of current popular Movies
+- List current popular TV Shows
+- List of the best rated Movies
 - Check the details of a media by tapping on it
 
 ## Issues
