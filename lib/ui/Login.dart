@@ -96,6 +96,14 @@ class _LoginState extends State<LoginPage> {
                 padding: const EdgeInsets.all(20.0),
                 child: Column(children: <Widget>[
                   Spacer(),
+                  Text(
+                    'TMDB Viewer',
+                    style: TextStyle(
+                        fontSize: 35.0,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.white),
+                  ),
+                  Spacer(),
                   Row(
                     children: [
                       Text(
