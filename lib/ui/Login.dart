@@ -1,11 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:test_flutter/ui/MediaList.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:test_flutter/ui/TmdbFormField.dart';
-import 'package:test_flutter/api.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_dynamic_links/firebase_dynamic_links.dart';
 import 'package:validate/validate.dart';
 
 final FirebaseAuth _auth = FirebaseAuth.instance;
