@@ -1,6 +1,6 @@
 # TMDB Viewer
 
-A Flutter app that lets you explore movies and TV Shows and uses The Movie Database.<br>
+A Flutter app that lets you explore movies and TV Shows and uses The Movie Database. https://www.themoviedb.org/<br>
 Works for iOS and Android
 
 ## Getting Started
