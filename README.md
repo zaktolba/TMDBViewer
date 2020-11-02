@@ -7,3 +7,7 @@ A Flutter app that lets you explore movies and TV Shows and uses The Movie Datab
 The login credentials are<br>
 **email:** jeantest@test.com<br>
 **password:** test10
+
+## Missing features
+- Age rating for movies is not functional
+- The login session might expire easily, requiring to sign-in again
